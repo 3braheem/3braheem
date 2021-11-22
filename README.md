@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @3ibraheem
+- 👋 Hi, I’m @3braheem
 - 👀 I’m interested in Ethereum blockchain development.
 - 🌱 I’m currently learning Solidity and JS.
 
