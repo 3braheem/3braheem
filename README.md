@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @3braheem
-- 👀 I’m interested in Ethereum blockchain development and security, primarily with smart contracts.
+- 👀 I’m interested in Ethereum blockchain development and smart contract security.
 - 🌱 I’m currently learning Solidity and JS.
 
 <!---
