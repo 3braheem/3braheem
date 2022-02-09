@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @3braheem
-- 👀 I’m interested in Ethereum blockchain development and smart contract security.
+- 👀 I’m interested in ZK proofs, networking, and anonymity.
 - 🌱 I’m currently learning Rust.
 
 <!---
