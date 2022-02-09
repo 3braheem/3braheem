@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @3braheem
 - 👀 I’m interested in Ethereum blockchain development and smart contract security.
-- 🌱 I’m currently learning C++ (for blockchains).
+- 🌱 I’m currently learning Rust.
 
 <!---
 hunafa/hunafa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
