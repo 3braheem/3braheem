@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @3braheem
-- 👀 I’m interested in ZK proofs, networking, and anonymity.
+- 👀 I’m interested in ZK proofs, Stats/DS, and anonymity.
 - 🌱 I’m currently learning Rust.
 
 <!---
