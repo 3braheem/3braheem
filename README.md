@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @3braheem
 - 👀 I’m interested in ZK proofs, Stats/DS, and anonymity.
-- 🌱 I’m currently learning Rust.
 
 <!---
 hunafa/hunafa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
